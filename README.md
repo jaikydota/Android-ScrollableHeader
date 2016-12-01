@@ -1,7 +1,5 @@
 # Android-ScrollableHeader
-This is ScrollableLayout Project bug fixes and feature improvements
-
-ScrollableLayout github address:https://github.com/cpoopc/ScrollableLayout
+This is an Android Common head + ViewPager+ ListView。
 
 效果如下:  
 <img width="400" height="720" src="https://github.com/cpoopc/ScrollableLayout/blob/master/image/preview.gif" />
