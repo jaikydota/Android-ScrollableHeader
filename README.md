@@ -1,5 +1,5 @@
 # Android-ScrollableHeader
-This is an Android Common head + ViewPager+ ListView。
+Android Common head + ViewPager+ ListView。
 
 效果如下:  
 <img width="400" height="720" src="https://github.com/cpoopc/ScrollableLayout/blob/master/image/preview.gif" />
